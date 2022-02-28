@@ -1,11 +1,7 @@
 # Lua LOVE2D Pong
-Placeholder
+A fun and endless implementation of the classic game.
 
 **Dependencies**
 ```
 LOVE2D
 ```
-
-**Notes**
-
-Placeholder
